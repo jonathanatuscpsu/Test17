@@ -48,4 +48,5 @@ Temporary Items
 
 # R related files that don't need version control
 .Rproj.user
+Test17.Rproj
 .Rhistory
